@@ -94,43 +94,6 @@ Complete project/
 ├── .gitignore
 └── README.md
 ```
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd YOUR_REPOSITORY
-```
-
-Install the required libraries:
-
-```bash
-pip install tensorflow keras numpy pandas opencv-python scikit-learn h5py joblib
-```
-
----
-
-## ▶️ Running the Project
-
-Run the main Python file:
-
-```bash
-python Main.py
-```
-
-Sample otoscopic images for testing are available in the **`testimages`** folder.
-
----
-
 ## 🔬 Applications
 
 This project can be used for academic and research applications such as:
