@@ -1,6 +1,6 @@
 # Automated Otitis Media Diagnosis from Otoscopic Images Using Deep CNNs
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an **AI-based system for automated diagnosis of Otitis Media and related ear conditions using otoscopic images**.
 
@@ -10,7 +10,7 @@ A **Deep Convolutional Neural Network (CNN)** is used to learn visual features f
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Develop an automated system for otoscopic image classification.
 * Use Deep CNNs to identify different ear conditions.
@@ -20,7 +20,7 @@ A **Deep Convolutional Neural Network (CNN)** is used to learn visual features f
 
 ---
 
-## 🩺 Disease / Condition Classes
+##  Disease / Condition Classes
 
 The system classifies otoscopic images into **five categories**:
 
@@ -32,7 +32,7 @@ The system classifies otoscopic images into **five categories**:
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 The general workflow of the project is:
 
@@ -54,7 +54,7 @@ The CNN automatically learns important visual patterns from the images and uses 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **TensorFlow / Keras**
@@ -66,7 +66,7 @@ The CNN automatically learns important visual patterns from the images and uses 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Complete project/
@@ -94,7 +94,7 @@ Complete project/
 ├── .gitignore
 └── README.md
 ```
-## 🔬 Applications
+##  Applications
 
 This project can be used for academic and research applications such as:
 
@@ -107,7 +107,7 @@ This project can be used for academic and research applications such as:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 The project can be further enhanced by adding:
 
